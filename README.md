@@ -20,6 +20,7 @@ The Sales Store Dashboard create and annual report from 2019 to 2020 that, the c
 - Sales Trends (daily, weekly, monthly)
 - Dashboard Interaction <a href="https://github.com/Honparkhe/Data-Analysis-using-powerbi/blob/main/Screenshot%202024-10-31%20182306.png">View Dashboard<a/>
 ## Dashboard
-![Uploading Screenshot 2024-10-31 182306.png…]()
+![dashboard](https://github.com/user-attachments/assets/7b668c61-b38c-496f-97a1-bdcd0231ee28)
+
 
 
