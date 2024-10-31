@@ -1,4 +1,3 @@
-
-# Sales Store Dashboard
-A Power BI Sales Store Dashboard Project is designed to provide a comprehensive view of sales performance across one or multiple store locations, enabling stakeholders to make data-driven decisions. This project involves gathering, cleaning, and visualizing sales data to identify trends, monitor key performance indicators (KPIs), and assess overall store performance.
-
+# Sales-Store-Data-Data-Analysis(Interactive Dashboard creation using MS Excel)
+## Project Objective 
+The Sales Store Dashboard create and annual report from 2019 to 2020 that, the customers can understand and grow more sale in 2020 and 2021
