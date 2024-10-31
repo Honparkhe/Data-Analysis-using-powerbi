@@ -18,4 +18,5 @@ The Sales Store Dashboard create and annual report from 2019 to 2020 that, the c
 - Store-wise Sales Comparison
 - Inventory Levels and Stock Alerts
 - Sales Trends (daily, weekly, monthly)
-- Dashboard Interaction 
+- Dashboard Interaction <a href="https://github.com/Honparkhe/Data-Analysis-using-powerbi/blob/main/Screenshot%202024-10-31%20182306.png">View Dashboard<a/>
+## Dashboard
