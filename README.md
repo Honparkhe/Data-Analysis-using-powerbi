@@ -11,7 +11,7 @@ The Sales Store Dashboard create and annual report from 2019 to 2020 that, the c
 - Data Model Creation: Set up relationships between tables for better insights and ease of visualization.
 2. Dashboard Design
 ## KPIs and Metrics: Determine the relevant KPIs for the sales dashboard. Common metrics may include:
--Total Sales
+- Total Sales
 - Average Order Value
 - Sales by Product Category
 - Customer Demographics
@@ -20,3 +20,5 @@ The Sales Store Dashboard create and annual report from 2019 to 2020 that, the c
 - Sales Trends (daily, weekly, monthly)
 - Dashboard Interaction <a href="https://github.com/Honparkhe/Data-Analysis-using-powerbi/blob/main/Screenshot%202024-10-31%20182306.png">View Dashboard<a/>
 ## Dashboard
+![Uploading Screenshot 2024-10-31 182306.png…]()
+
